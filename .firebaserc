@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "heart2heart-55c03"
+  },
+  "targets": {
+    "heart2heart-55c03": {
+      "hosting": {
+        "signup": [
+          "heart2heartsignup"
+        ],
+        "dashboard": [
+          "heart2heart-55c03"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
